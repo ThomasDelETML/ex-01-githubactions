@@ -1,5 +1,4 @@
 name: Exercice 1 - mon premier workflow GitHub Actions
-e-324-GitHubActions-EX-01.md 2 / 4 2025-11-21
 on: [push] #
 jobs:
  demo:
