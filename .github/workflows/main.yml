@@ -1,0 +1,9 @@
+name: Exercice 1 - mon premier workflow GitHub Actions
+e-324-GitHubActions-EX-01.md 2 / 4 2025-11-21
+on: [push] #
+jobs:
+ demo:
+ runs-on: ubuntu-latest
+ steps:
+ - name: 1) Message de bienvenue
+ run: echo "Bienvenue dans mon premier workflow GitHub Actions !"
